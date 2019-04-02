@@ -1,3 +1,3 @@
 # Finite_Automata_Languages
 
-1. NFA - Nondeterministic Finite Automaton Project
+1. NFA_LFA - Nondeterministic Finite Automaton Project
